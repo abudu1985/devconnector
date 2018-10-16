@@ -1,2 +1,5 @@
 abudu1985 || igor:1Q2w3e4r!
+ "email":"a@ukr.net", "i@ukr.net"
+ "password":"123456"
+
 15/10. stopped on 3.12]
