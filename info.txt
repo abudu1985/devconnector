@@ -6,4 +6,4 @@ u:abudu1985 p:1Q2w3e4r!  // mlab credentials
 $ npm run dev  //command to run both back and client
 
 
-stopped on 9 section
+stopped on ... section on ... video
